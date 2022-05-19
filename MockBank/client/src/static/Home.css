@@ -1,0 +1,191 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    padding: 20px;
+}
+
+.links{
+    display: flex;
+    margin-left: 10%;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+    text-decoration: underline;
+}
+
+.search{
+    margin-left: 100px;
+}
+
+.saving{
+    color: white;
+    font-size: 40pt;
+    font-weight: normal;
+}   
+
+.Image{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-around;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 100% 50%;
+}
+
+.form{
+    background-color: #a91523;
+    width: 22%;
+    padding: 12px;
+    border-radius: 10px;
+    gap: 5px;
+}
+
+.login{
+    color: white;
+    font-size: 17pt;
+    font-weight: 800;
+}
+
+.pass{
+    margin-top: 10px;
+}
+
+.remember{
+    color: white;
+    margin: 0px;
+}
+
+.forgot{
+    color: white;
+    text-decoration: underline;
+}
+
+.cont{
+    background: #a91523;
+    border: 1;
+    color: white;
+    border-color: black;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 70%;
+}
+
+.products{
+    font-size: 32pt;
+    font-weight: 900;
+    margin: 0px 0px 0px 20px;
+}
+
+.rows{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 0px;
+    gap: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.col1{
+    background-color: #a91523;
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.col2{
+    background-color: #a91523;
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.personal{
+    font-size: 25pt;
+    font-weight: 800;
+    color: grey;
+    margin-bottom: 0px;
+}
+
+.business{
+    font-size: 25pt;
+    font-weight: 800;
+    color: grey;
+    margin-bottom: 0px;
+}
+
+.titles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img2{
+    width: 1000px;
+    height: 369px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.slider{
+    width: 100%;
+    height: 500px;
+    object-fit: cover
+}
+
+.contact{
+    background-color: #a91523;
+    display: flex;
+    height: 400px;
+    align-items: center;
+    gap: 10%;
+    padding: 50px;
+    padding-left: 200px;
+}
+.connect{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.map{
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.contactForm{
+    color: white;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+.emailForm{
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+.cont{
+}
+
+.footer{
+    background-color:#a91523 ;
+    margin-bottom: 0px;
+    height: 70px;
+}
+
+.body{
+    margin: 0px;
+}
+
